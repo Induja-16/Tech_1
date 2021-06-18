@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Tech_1</string>
+    <string-array name="Food_items">
+        <item>Burger</item>
+        <item>Pizza</item>
+        <item>Chicken</item>
+        <item>Pav bhaji</item>
+        <item>Fried rice</item>
+        <item>Dosa</item>
+        <item>Noodles</item>
+        <item>Cake</item>
+        <item>Coffee</item>
+        <item>Shakes</item>
+
+
+
+    </string-array>
+
+    <string-array name="description">
+        <item>Rs.250</item>
+        <item>Rs.450</item>
+        <item>Rs.300</item>
+        <item>Rs.100</item>
+        <item>Rs.150</item>
+        <item>Rs.100</item>
+        <item>Rs.175</item>
+        <item>Rs.75</item>
+        <item>Rs.100</item>
+        <item>Rs.80</item>
+    </string-array>
+
+</resources>
